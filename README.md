@@ -10,6 +10,6 @@ Este proyecto forma parte del curso de **Alura Latam** en conjunto con **Oracle 
 
 # ultima actualizacion (14/03/2025)
 
-🔹 **se mejoro un poco el responsive teniendo asi adpatabilidad entre diferentes dispositivos.**
+🔹 **se mejoro un poco el responsive teniendo asi adaptabilidad entre diferentes dispositivos.**
 
 📌 *Este proyecto podría recibir actualizaciones en el futuro.*  
