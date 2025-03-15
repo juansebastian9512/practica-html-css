@@ -8,4 +8,8 @@ Este proyecto forma parte del curso de **Alura Latam** en conjunto con **Oracle 
 
 🔹 **Próximamente seguiré la ruta Backend dentro del curso y continuaré aprendiendo mucho más.**  
 
+# ultima actualizacion (14/03/2025)
+
+🔹 **se mejoro un poco el responsive teniendo asi adpatabilidad entre diferentes dispositivos.**
+
 📌 *Este proyecto podría recibir actualizaciones en el futuro.*  
